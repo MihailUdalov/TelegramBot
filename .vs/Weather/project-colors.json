@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c704510-460a-4625-9d0f-47d816281570": {
+      "ProjectGuid": "3c704510-460a-4625-9d0f-47d816281570",
+      "DisplayName": "Weather",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

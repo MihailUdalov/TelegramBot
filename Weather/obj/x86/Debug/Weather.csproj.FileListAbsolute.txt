@@ -1,0 +1,15 @@
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\Weather.exe.config
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\Weather.exe
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\Weather.pdb
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\Telegram.Bot.dll
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Михаил\source\repos\Weather\Weather\bin\x86\Debug\Telegram.Bot.xml
+C:\Users\Михаил\source\repos\Weather\Weather\obj\x86\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Weather\Weather\obj\x86\Debug\Weather.csproj.CopyComplete
+C:\Users\Михаил\source\repos\Weather\Weather\obj\x86\Debug\Weather.exe
+C:\Users\Михаил\source\repos\Weather\Weather\obj\x86\Debug\Weather.pdb
